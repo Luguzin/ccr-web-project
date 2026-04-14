@@ -41,6 +41,6 @@ O site é adaptável para:
  Desktops
  Tablets
 
-## Autor:
+## Autor
 
 Desenvolvido por Luiz Gustavo Lima da Silva
