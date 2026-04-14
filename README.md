@@ -8,7 +8,7 @@ Projeto de página institucional inspirado no Grupo CCR, com foco em mobilidade 
 
 ##  Sobre o projeto
 
-Este projeto consiste em uma página web estática desenvolvida com HTML e CSS, apresentando informações sobre a CCR, sua atuação, missão, valores, negócios e desafios no setor de infraestrutura.
+Este projeto consiste em uma página web desenvolvida com HTML e CSS, apresentando informações sobre a CCR, sua atuação, missão, valores, negócios e desafios no setor de infraestrutura.
 
 ##  Objetivo
 
