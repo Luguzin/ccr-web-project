@@ -4,7 +4,7 @@ Projeto de página institucional inspirado no Grupo CCR, com foco em mobilidade 
 
 ## Acesse o site
 
-[![Website](https://img.shields.io/badge/Website-CCR%20Solutions-blue?style=for-the-badge )]([https://luguzin.github.io/ccr-web-project/] ) 
+[![Website](https://img.shields.io/badge/Website-CCR%20Website-blue?style=for-the-badge )]([https://luguzin.github.io/ccr-web-project/] ) 
 
 ##  Sobre o projeto
 
